@@ -17,5 +17,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 
 # Projects(selected)
 
-(/images/Trotbot_quark.jpg){: .align-left width="100px"}
-* I worked
+<img src="/images/Trotbot_quark.jpg" width="140" height="90">
+<p style="text-align: center;">
+<li>Developed a ROS Action based interface for motion planning, dynamic obstacle avoidance and replanning for an omni-directional ground robot. </li>
+</p>
