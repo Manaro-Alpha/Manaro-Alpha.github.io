@@ -146,8 +146,4 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
     </td>
     
 </tr>
-</table>
 
-</body>
-
-</html>
