@@ -20,7 +20,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 
 <div>
 
-<table>
+<table border=0>
 <tbody>
 <tr>
 <td>
@@ -94,13 +94,9 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 <!-- blog-->
 
 <!-- Projects -->
-
-<button>
-    <heading>Projects (Selected)</heading>
-</button>
 <div>
 
-<table>
+<table border=0>
 <tbody>
 
 <tr>
@@ -266,11 +262,6 @@ Feel free to contact me on any of these platforms!
 <br>
 This website is a modification of Jon Barron&apos;s <a>website</a>, Priyal Chhatrapati&apos;s <a>website</a>, Amogh
 Dabholkar&apos;s <a>website</a> and Pranay Mathur&apos;s <a>website</a>. You can find the source code <a>here</a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p></p>
 </td>
 </tr>
 </tbody></table>
