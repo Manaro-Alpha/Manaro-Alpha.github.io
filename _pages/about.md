@@ -28,10 +28,16 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 
 ## Trotbot
 ### [Code](https://github.com/ERC-BPGC/RAIN)
-<p align="centre">
+<p>
 <img align="left" src="/images/Trotbot_quark.jpg" width="140" height="90">
-<li>Implement path planning algorithms like A-Star and RRT. </li>
-<li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li>
-<li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li>
+<li align="centre">Implement path planning algorithms like A-Star and RRT. </li>
+<li align="centre">Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li>
+<li align="centre">Worked on Semantic Segmentation in the image captured by the onboard camera.</li>
 </p>
 
+## SpiderBot
+<p>
+<img align="left" src="/images/spiderbot.jpeg" width="140" height="90">
+<li align="centre">Implemented various gait patterns using bio-inspired CPG controller</li>
+<li align="centre">Currently working on Reinforcement Learning based algorithms for locomotion</li>
+</p>
