@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Final Year undergrad at BITS Pilani Goa Campus majoring in Electronics and Communication Engineering. I am interested in Robotics and Reinforcement Learning.
 
-Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.swaayattrobots.com/) where I work closely with [Mr Sanjeev Sharma(Founder and CEO, Swaayatt Robots)](https://www.swaayattrobots.com/) on Motion Planning using Reinforcement Learning for Autonomous Vehicles.
+Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.swaayattrobots.com/) where I work closely with [Mr Sanjeev Sharma](https://www.swaayattrobots.com/)(Founder and CEO, Swaayatt Robots) on Motion Planning using Reinforcement Learning for Autonomous Vehicles.
 
 Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
 
@@ -21,9 +21,9 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 ## UAV Landing on an Unmarked Moving Paltform
 ### [Code](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <p style="display:inline-block;">
-<img  align="left" src="/images/lanfinGIF.gif" width="210" height="135">
-<li align="centre">Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
-<li align="centre">Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
+<img src="/images/lanfinGIF.gif" width="210" height="135">
+<li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
+<li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
 </p>
 
 ## Trotbot
