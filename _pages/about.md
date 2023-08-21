@@ -43,20 +43,20 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 # Projects(selected)
 ## [UAV Landing on an Unmarked Moving Paltform](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/spiderbot.jpeg" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li><li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/lanfinGIF.gif" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li><li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li></span>
 </div>
 
 ## [Trotbot]("https://github.com/ERC-BPGC/RAIN")
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/spiderbot.jpeg" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implement path planning algorithms like A-Star and RRT.</li><li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li><li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/trotbot.jpg" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implement path planning algorithms like A-Star and RRT.</li><li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li><li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li></span>
 </div>
 
 ## [SpiderBot](https://github.com/ERC-BPGC/SpiderBot)
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/spiderbot.jpeg" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented various gait patterns using bio-inspired CPG controller</li><li>Currently working on Reinforcement Learning based algorithms for locomotion</li>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented various gait patterns using bio-inspired CPG controller</li><li>Currently working on Reinforcement Learning based algorithms for locomotion</li></span>
 </div>
 
  <!-- <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span> -->
