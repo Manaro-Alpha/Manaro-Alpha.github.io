@@ -20,16 +20,20 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 # Projects(selected)
 ## UAV Landing on an Unmarked Moving Paltform
 ### [Code](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
-<p>
+<h3>
 <img  align="left" src="/images/lanfinGIF.gif" width="140" height="90">
+</h3>
+<p>
 <li align="right">Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
 <li align="right">Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
 </p>
 
 ## Trotbot
 ### [Code](https://github.com/ERC-BPGC/RAIN)
-<p>
+<h3>
 <img align="left" src="/images/Trotbot_quark.jpg" width="140" height="90">
+</h3>
+<p>
 <li align="right">Implement path planning algorithms like A-Star and RRT. </li>
 <li align="right">Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li>
 <li align="right">Worked on Semantic Segmentation in the image captured by the onboard camera.</li>
