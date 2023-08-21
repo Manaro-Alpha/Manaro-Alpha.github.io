@@ -96,7 +96,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 <!-- Projects -->
 <div>
 
-<table border=0>
+<table border=0 class="bg_colour">
 <tbody>
 
 <tr>
