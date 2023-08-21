@@ -18,23 +18,22 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 
 
 # Projects(selected)
-## UAV Landing on an Unmarked Moving Paltform
-### [Code](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
+## [UAV Landing on an Unmarked Moving Paltform](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <p style="display:inline-block;">
 <img src="/images/lanfinGIF.gif" width="210" height="135">
 <li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
 <li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
 </p>
 
-## Trotbot
-<p style="display:inline-block;" href="https://github.com/ERC-BPGC/RAIN">Code
+## [Trotbot]("https://github.com/ERC-BPGC/RAIN")
+<p style="display:inline-block;">
 <img align="left" src="/images/Trotbot_quark.jpg" width="140" height="90">
 <li align="centre">Implement path planning algorithms like A-Star and RRT. </li>
 <li align="centre">Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li>
 <li align="centre">Worked on Semantic Segmentation in the image captured by the onboard camera.</li>
 </p>
 
-## SpiderBot
+## [SpiderBot](https://github.com/ERC-BPGC/SpiderBot)
 <p style="display:inline-block;">
 <img align="left" src="/images/spiderbot.jpeg" width="140" height="90">
 <li align="centre">Implemented various gait patterns using bio-inspired CPG controller</li>
