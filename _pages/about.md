@@ -16,27 +16,27 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 
 # Experience
 ## BITS Pilani Goa Campus
-<p>
+<p style="display:inline-block;">
 <img align="left" src="/images/site-logo.png" width="140" height="90">
-<p align="Right">Undergrad Researcher(September 2022 - Present)</p>
+<p align="center">Undergrad Researcher(September 2022 - Present)</p>
 </p>
 
 ## Swaayatt Robots
-<p>
+<p style="display:inline-block;">
 <img align="left" src="/images/swaayatt.png" width="140" height="90">
-<p align="Right">Researcher(July 2023 - Present)</p>
+<p align="center">Researcher(July 2023 - Present)</p>
 </p>
 
 ## MARMot Lab
-<p>
+<p style="display:inline-block;">
 <img align="left" src="/images/MARMot_lab.png" width="140" height="90">
-<p align="Right">Research Intern(Feb 2023 - May 2023)</p>
+<p align="center">Research Intern(Feb 2023 - May 2023)</p>
 </p>
 
 ## CSIR-CEERI
-<p>
+<p style="display:inline-block;">
 <img align="left" src="/images/CEERI.webp" width="140" height="90">
-<p align="Right">Research Intern(September 2022 - Present)\n Advisor - Dr Kaushal Kishore</p>
+<p align="center">Research Intern(September 2022 - Present)\n Advisor - Dr Kaushal Kishore</p>
 </p>
 
 # Projects(selected)
