@@ -27,8 +27,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 </p>
 
 ## Trotbot
-### [Code](https://github.com/ERC-BPGC/RAIN)
-<p style="display:inline-block;">
+<p style="display:inline-block;" href="https://github.com/ERC-BPGC/RAIN">Code
 <img align="left" src="/images/Trotbot_quark.jpg" width="140" height="90">
 <li align="centre">Implement path planning algorithms like A-Star and RRT. </li>
 <li align="centre">Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li>
