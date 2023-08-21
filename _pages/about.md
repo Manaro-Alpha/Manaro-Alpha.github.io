@@ -18,3 +18,4 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 # Projects(selected)
 
 (/images/Trotbot_quark){: .align-left width="100px"}
+* I worked
