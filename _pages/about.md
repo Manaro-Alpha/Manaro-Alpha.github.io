@@ -21,6 +21,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 <p style="text-align: center;">
 <li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
 <li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
+</p>
 
 ## Trotbot
 <img src="/images/Trotbot_quark.jpg" width="140" height="90">
