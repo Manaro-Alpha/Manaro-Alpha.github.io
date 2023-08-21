@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I am Manan Arora"
+title: "Hi there! I am Manan Arora"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,26 @@ Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.sw
 Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
 
 # Experience
+## BITS Pilani Goa Campus
+<p>
+<img align="left" src="/images/site-logo.png" width="140" height="90">
+<p align="Right">Undergrad Researcher(September 2022 - Present)</p>
+</p>
 
+## Swaayatt Robots
+<img align="left" src="/images/swaayatt.png" width="140" height="90">
+<p align="Right">Researcher(July 2023 - Present)</p>
+</p>
+
+## MARMot Lab
+<img align="left" src="/images/MARMot_lab.png" width="140" height="90">
+<p align="Right">Research Intern(Feb 2023 - May 2023)</p>
+</p>
+
+## CSIR-CEERI
+<img align="left" src="/images/CEERI.webp" width="140" height="90">
+<p align="Right">Research Intern(September 2022 - Present)\n Advisor - Dr Kaushal Kishore</p>
+</p>
 
 # Projects(selected)
 ## [UAV Landing on an Unmarked Moving Paltform](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
