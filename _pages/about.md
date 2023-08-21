@@ -16,8 +16,15 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 
 
 # Projects(selected)
-
+## UAV Landing on an Unmarked Moving Paltform
+<img src="/images/lanfinGIF.gif">
+<p style="text-align: center;">
+<li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
+<li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li>
+## Trotbot
 <img src="/images/Trotbot_quark.jpg" width="140" height="90">
 <p style="text-align: center;">
-<li>Developed a ROS Action based interface for motion planning, dynamic obstacle avoidance and replanning for an omni-directional ground robot. </li>
+<li>Implement path planning algorithms like A-Star and RRT. </li>
+<li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li>
+<li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li>
 </p>
