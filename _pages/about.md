@@ -21,7 +21,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 ## UAV Landing on an Unmarked Moving Paltform
 ### [Code](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <h3>
-<img  align="left" src="/images/lanfinGIF.gif" width="140" height="90">
+<img  align="left" src="/images/lanfinGIF.gif" width="210" height="135">
 </h3>
 <p>
 <li align="centre">Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li>
