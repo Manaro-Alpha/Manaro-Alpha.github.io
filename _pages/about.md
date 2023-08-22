@@ -45,8 +45,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2021-February 2022]</b><br>Team Member</span>
 </div>  
 
-#  
-
+  
 # Projects(selected)
 ## [UAV Landing on an Unmarked Moving Paltform](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <div class="row"> 
