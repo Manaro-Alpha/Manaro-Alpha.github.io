@@ -17,7 +17,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 # Experience
 ## Swaayatt Robots
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/Swaayatt.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/swaayatt.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2023-Present]</b><br>Research Intern<br>Advisor - <b>Mr Sanjeev Sharma</b></span>
 </div>
 
@@ -43,7 +43,8 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/kratos.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2021-February 2022]</b><br>Team Member</span>
-</div>
+</div>  
+
 
 
 # Projects(selected)
