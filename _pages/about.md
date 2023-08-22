@@ -14,50 +14,53 @@ Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.sw
 
 Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
 
-<!-- # Experience
-## BITS Pilani Goa Campus
-<p style="display:inline-block;">
-<img align="left" src="/images/site-logo.png" width="140" height="90">
-<p align="center">Undergrad Researcher(September 2022 - Present)</p>
-</p>
-
+# Experience
 ## Swaayatt Robots
-<p style="display:inline-block;">
-<img align="left" src="/images/swaayatt.png" width="140" height="90">
-<p align="center">Researcher(July 2023 - Present)</p>
-</p>
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/Swaayatt.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2023-Present]</b><br>Research Intern<br>Advisor - <b>Mr Sanjeev Sharma</b></span>
+</div>
 
 ## MARMot Lab
-<p style="display:inline-block;">
-<img align="left" src="/images/MARMot_lab.png" width="140" height="90">
-<p align="center">Research Intern(Feb 2023 - May 2023)</p>
-</p>
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/MARMot_lab.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[February 2023-June 2023]</b><br>Research Intern<br>Advisor - <b>Dr Guillaume Sartoretti</b></span>
+</div>
+
+## BITS Pilani Goa Campus
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/site-logo.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[September 2022-Present]</b><br>Undergraduate Researcher<br>Advisor - <b>Dr Sarang Dhongdi</b></span>
+</div>
 
 ## CSIR-CEERI
-<p style="display:inline-block;">
-<img align="left" src="/images/CEERI.webp" width="140" height="90">
-<p align="center">Research Intern(September 2022 - Present)</p>
-<p align="centre">Advisor - Dr Kaushal Kishore</p>
-</p> -->
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/CEERI.webp" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2022-September 2022]</b><br>Research Intern<br>Advisor - <b>Dr Kaushal Kishore</b></span>
+</div>
+
+## Project Kratos
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/kratos.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2021-February 2022]</b><br>Team Member</span>
+</div>
+
 
 # Projects(selected)
 ## [UAV Landing on an Unmarked Moving Paltform](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/lanfinGIF.gif" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/lanfinGIF.gif" alt="Landing GIF" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li><li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li></span>
 </div>
 
 ## [Trotbot]("https://github.com/ERC-BPGC/RAIN")
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/trotbot.jpg" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implement path planning algorithms like A-Star and RRT.</li><li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li><li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/trotbot.jpg" alt="Trotbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented path planning algorithms like A-Star and RRT.</li><li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li><li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li></span>
 </div>
 
 ## [SpiderBot](https://github.com/ERC-BPGC/SpiderBot)
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/spiderbot.jpeg" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented various gait patterns using bio-inspired CPG controller</li><li>Currently working on Reinforcement Learning based algorithms for locomotion</li></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/spiderbot.jpeg" alt="Spiderbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented various gait patterns using bio-inspired CPG controller.</li><li>Currently working on Reinforcement Learning based algorithms for locomotion.</li></span>
 </div>
-
- <!-- <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span> -->
-
