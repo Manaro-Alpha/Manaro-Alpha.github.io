@@ -14,7 +14,7 @@ Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.sw
 
 Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
 
-I am actively looking for Research Positions in Robotics and ML. To know more
+I am actively looking for Research Positions in Robotics and ML. Check out my [CV](/files/MananAroraCV.pdf) to know more about my work experience.
 
 # Experience
 ## Swaayatt Robots
@@ -51,13 +51,13 @@ I am actively looking for Research Positions in Robotics and ML. To know more
 
 ## PPO_Pytorch[GitHub Link](https://github.com/Manaro-Alpha/PPO_PyTorch)
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/spiderbot.jpeg" alt="Spiderbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/rl-video-LunarLanderContinuous-v2-episode-1000 .gif" alt="Spiderbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implented PPO algorithm from scratch and tested on platforms like LunarLander, Bipedal Walker</li><li>Included modifications like Generalised Advantage Estimation, Entropy Regularisation etc. to improve performance</li></span>
 </div>
 
 ## UAV Landing on an Unmarked Moving Paltform[GitHub Link](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/rl-video-LunarLanderContinuous-v2-episode-1000 .gif" alt="Landing GIF" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/lanfinGIF.gif" alt="Landing GIF" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li><li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li></span>
 </div>
 
