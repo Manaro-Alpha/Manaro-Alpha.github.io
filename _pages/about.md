@@ -14,7 +14,7 @@ Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.sw
 
 Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
 
-**I am actively looking for Research Positions for Winter 2024**. Check out my [CV](/files/MananAroraCV.pdf) to know more about my work experience.
+**I am actively looking for Research Positions for Winter 2024**. Check out my [CV](/files/MananAroraCV1.pdf) to know more about my work experience.
 
 # Experience
 ## Swaayatt Robots
