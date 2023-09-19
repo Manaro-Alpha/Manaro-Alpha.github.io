@@ -61,6 +61,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/Obsav.jpg" alt="Spiderbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented an Atari like Reinforcement Learning environment and agent from scratch using Pygame.</li><li>Implemented PPO from scratch to train the agent.</li><li>Exploring training results from other algorithms like TD3, DDPG.</li></span>
 </div>
+  
 
 # Projects(selected)
 
