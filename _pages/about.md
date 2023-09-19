@@ -47,6 +47,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2021-February 2022]</b><br>Team Member</span>
 </div>  
 <p>&nbsp;</p>
+
 # Projects(selected)
 
 ## PPO_Pytorch[(GitHub Link)](https://github.com/Manaro-Alpha/PPO_PyTorch)
