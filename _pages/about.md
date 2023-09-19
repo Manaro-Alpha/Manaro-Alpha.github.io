@@ -53,7 +53,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 ## Yuna-Mocap-Gym[(Github Link)](https://github.com/Manaro-Alpha/Yuna_MoCap_gym)
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/Yuna_walk.gif" alt="Spiderbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Training a hexapod to walk using Motion Capture data and Deep Reinforcement Learning.</li><li>Motion Capture data generated using a custom built CPG controller.</li></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Training a hexapod to walk on rough terrain, steps etc. using Motion Capture data and Deep Reinforcement Learning.</li><li>Motion Capture data generated using a custom built CPG controller.</li></span>
 </div>
 
 ## Obstacle-Avoidance-using-Reinforcement-Learning
