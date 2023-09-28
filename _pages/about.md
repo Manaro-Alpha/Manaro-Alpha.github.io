@@ -68,7 +68,7 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
 ## PPO_Pytorch[(GitHub Link)](https://github.com/Manaro-Alpha/PPO_PyTorch)
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/rl-video-LunarLanderContinuous-v2-episode-1000 .gif" alt="Lander img" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implented PPO algorithm from scratch and tested on platforms like LunarLander, Bipedal Walker</li><li>Included modifications like Generalised Advantage Estimation, Entropy Regularisation etc. to improve performance</li></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented PPO algorithm from scratch and tested on platforms like LunarLander, Bipedal Walker</li><li>Included modifications like Generalised Advantage Estimation, Entropy Regularisation etc. to improve performance</li></span>
 </div>
 
 ## UAV Landing on an Unmarked Moving Paltform[(GitHub Link)](https://github.com/Manaro-Alpha/Drone-Landing-on-an-unamrked-moving-platform)
