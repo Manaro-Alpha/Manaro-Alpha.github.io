@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Final Year undergrad at BITS Pilani Goa Campus majoring in Electronics and Communication Engineering. I am interested in Robotics and Reinforcement Learning.
 
-Currently, I am working as a Research Assistant at [Stoch Lab](https://www.stochlab.com/) under the guidance of [Prof Shishir Kolathaya](https://www.shishirny.com/) on Locomotion in Legged Robots using Reinforcement Learning. Presently I am working on using Offline Reinforcement Learning to train locomotion policies for quadrupeds. 
+Currently, I am working as a Research Assistant at [Stoch Lab](https://www.stochlab.com/) under the guidance of [Prof Shishir Kolathaya](https://www.shishirny.com/) on Locomotion in Legged Robots using Reinforcement Learning. Presently, I am trying to tran robust locomotion policies for quadrupeds using Offline Reinforcement Learning. 
 
 Previously, I interned at [Swaayatt Robots](https://www.swaayattrobots.com/) where I worked closely with [Mr Sanjeev Sharma](https://www.swaayattrobots.com/)(Founder and CEO, Swaayatt Robots) on Motion Planning using Reinforcement Learning for Autonomous Vehicles.
 
@@ -73,6 +73,7 @@ My aim is to induce animal like conciousness and reasoning in robots especially 
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented an Atari like Reinforcement Learning environment and agent from scratch using Pygame.</li><li>Implemented PPO from scratch to train the agent.</li><li>Exploring training results from other algorithms like TD3, DDPG.</li></span>
 </div>
   
+<p>&nbsp;</p>
 
 # Projects(selected)
 
@@ -94,11 +95,11 @@ My aim is to induce animal like conciousness and reasoning in robots especially 
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Worked on a visual servoing based controller and Open-CV pipeline to detect and land on the platform.</li><li>Worked on Deep Learning and Computer Vision based methods to detect the platform using a 3D Lidar.</li></span>
 </div>
 
-## Trotbot[(GitHub Link)]("https://github.com/ERC-BPGC/RAIN")
+<!-- ## Trotbot[(GitHub Link)]("https://github.com/ERC-BPGC/RAIN")
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/trotbot.jpg" alt="Trotbot image" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented path planning algorithms like A-Star and RRT.</li><li>Implemented Kalman Filter for sensor fusion to get reliable odometry from various sensors.</li><li>Worked on Semantic Segmentation in the image captured by the onboard camera.</li></span>
-</div>
+</div> -->
 
 ## SpiderBot[(GitHub Link)](https://github.com/ERC-BPGC/SpiderBot)
 <div class="row"> 
