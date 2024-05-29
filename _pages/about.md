@@ -10,17 +10,28 @@ redirect_from:
 
 I am a Final Year undergrad at BITS Pilani Goa Campus majoring in Electronics and Communication Engineering. I am interested in Robotics and Reinforcement Learning.
 
-Currently, I am working as a Research Intern at [Swaayatt Robots](https://www.swaayattrobots.com/) where I work closely with [Mr Sanjeev Sharma](https://www.swaayattrobots.com/)(Founder and CEO, Swaayatt Robots) on Motion Planning using Reinforcement Learning for Autonomous Vehicles.
+Currently, I am working as a Research Assistant at [Stoch Lab](https://www.stochlab.com/) under the guidance of [Prof Shishir Kolathaya](https://www.shishirny.com/) on Locomotion in Legged Robots using Reinforcement Learning. Presently I am working on using Offline Reinforcement Learning to train locomotion policies for quadrupeds. 
 
-Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
+Previously, I interned at [Swaayatt Robots](https://www.swaayattrobots.com/) where I worked closely with [Mr Sanjeev Sharma](https://www.swaayattrobots.com/)(Founder and CEO, Swaayatt Robots) on Motion Planning using Reinforcement Learning for Autonomous Vehicles.
 
-**I am actively looking for Research Positions for Winter 2024**. Check out my [CV](/files/MananAroraCV.pdf) to know more about my work experience.
+Before that, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/), National University of Singapore working under the guidance of [Dr Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and his research group on Foothold Planning using Reinforcement Learning for Legged Robots. Even before that, I was a Research Intern at CSIR-CEERI under the guidance of [Dr Kaushal Kishore](https://www.ceeri.res.in/profiles/kaushal-kishore/).
+
+My aim is to induce animal like conciousness and reasoning in robots especially for locomotion and manipulation tasks.
+
+**I am actively looking for Research Positions for Fall 2024**. Check out my [CV](/files/MananAroraCV.pdf) to know more about my work experience.
 
 # Experience
+## Stoch Lab
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/stoch_logo.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[January 2024-Present]</b><br>Research Assistant<br>Advisor - <b>Prof Shishir Kolathaya</b></span>
+</div>
+
+
 ## Swaayatt Robots
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/swaayatt.png" alt="Swaayatt Logo" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2023-Present]</b><br>Research Intern<br>Advisor - <b>Mr Sanjeev Sharma</b></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[June 2023-December 2023]</b><br>Research Intern<br>Advisor - <b>Mr Sanjeev Sharma</b></span>
 </div>
 
 ## MARMot Lab
@@ -64,6 +75,12 @@ Previously, I was a Research Intern at [MARMot Lab](https://www.marmotlab.org/),
   
 
 # Projects(selected)
+
+## DreamWaQ[(GitHub Link)](https://github.com/Manaro-Alpha/PPO_PyTorch)
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/DwaQ_stairs.gif" alt="Lander img" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented paper [DreamWaQ](https://arxiv.org/abs/2301.10602) from scratch using pytorch and IsaacGym.</li></span>
+</div>
 
 ## PPO_Pytorch[(GitHub Link)](https://github.com/Manaro-Alpha/PPO_PyTorch)
 <div class="row"> 
