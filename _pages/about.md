@@ -83,7 +83,7 @@ My aim is to induce animal like conciousness and reasoning in robots especially 
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented paper "DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning" from scratch using pytorch and IsaacGym.</li></span>
 </div>
 
-## BCQ-Pytorch[(Github Link)(https://github.com/Manaro-Alpha/BCQ-Pytorch)]
+## BCQ-Pytorch[(Github Link)](https://github.com/Manaro-Alpha/BCQ-Pytorch)
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/rl-video-LunarLanderContinuous-v2-episode-1000 .gif" alt="Lander img" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented Batch Constrained Deep Q-Learning Algorithm (Fujimoto et al.) from scratch and tested on d4rl dataset.</li><li>Included modifications to speedup training by approximately 75%.</li></span>
