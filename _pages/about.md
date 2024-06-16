@@ -80,7 +80,12 @@ My aim is to induce animal like conciousness and reasoning in robots especially 
 ## DreamWaQ[(GitHub Link)](https://github.com/Manaro-Alpha/PPO_PyTorch)
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/DwaQ_stairs.gif" alt="Lander img" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented paper [DreamWaQ](https://arxiv.org/abs/2301.10602) from scratch using pytorch and IsaacGym.</li></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented paper "DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning" from scratch using pytorch and IsaacGym.</li></span>
+</div>
+
+## BCQ-Pytorch[(Github Link)(https://github.com/Manaro-Alpha/BCQ-Pytorch)]
+<div class="row">
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><li>Implemented Batch Constrained Deep Q-Learning Algorithm (Fujimoto et al.) from scratch and tested on d4rl dataset.</li><li>Included modifications to speedup training by approximately 75%.</li></span>
 </div>
 
 ## PPO_Pytorch[(GitHub Link)](https://github.com/Manaro-Alpha/PPO_PyTorch)
